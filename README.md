@@ -1,4 +1,2 @@
 # Repo100
-Es para un repositorio (º-º)
-print("UwU")
-waka waka
+Es un repositorio para adjuntar los trabajos de F.A.T. (º-º)
